@@ -321,3 +321,12 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+
+### Resources I used this week
+
+* Think Python_How to Think Like a Computer Scientist by Allen B. Downey
+
+* Python Basics: A Practical Introduction to Python 3 (realpython.com)
+
+* Using Git version control for code projects - https://gist.github.com/albatrocity/1201187
