@@ -322,6 +322,7 @@ open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
 
+<<<<<<< HEAD
 
 ### Resources I used this week
 
@@ -331,3 +332,6 @@ open data packages.
 * Python Basics: A Practical Introduction to Python 3 (realpython.com)
 
 * Using Git version control for code projects - https://gist.github.com/albatrocity/1201187
+=======
+* Things are not the same!
+>>>>>>> feature
