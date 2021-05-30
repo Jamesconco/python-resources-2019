@@ -325,6 +325,7 @@ open data packages.
 
 ### Resources I used this week
 
+
 * Think Python_How to Think Like a Computer Scientist by Allen B. Downey
 
 * Python Basics: A Practical Introduction to Python 3 (realpython.com)
